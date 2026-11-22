@@ -1,6 +1,6 @@
 # wsp-language-drift
 
-Code for the note [Weight-space programming against language confusion in a small model](BLOG_LINK). Each patch is a
+Code for the note [Weight-space programming against language confusion in a small model](https://mhajili.com/notes/weight-space-programming/). Each patch is a
 closed-form edit of Qwen3.5-0.8B's weights, computed from recorded activations with no gradient training. The patches
 themselves are on Hugging Face at [hajili/qwen3.5-0.8b-language-patches](https://huggingface.co/hajili/qwen3.5-0.8b-language-patches).
 
