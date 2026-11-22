@@ -2,7 +2,7 @@
 
 Code for the note [Weight-space programming against language confusion in a small model](https://mhajili.com/notes/weight-space-programming/). Each patch is a
 closed-form edit of Qwen3.5-0.8B's weights, computed from recorded activations with no gradient training. The patches
-themselves are on Hugging Face at [hajili/qwen3.5-0.8b-language-patches](https://huggingface.co/hajili/qwen3.5-0.8b-language-patches).
+themselves are in the Hugging Face collection [hajili/weight-space-programming-against-language-confusion](https://huggingface.co/collections/hajili/weight-space-programming-against-language-confusion-6b02a28869bc86a3fd672d93).
 
 | File | What it does |
 | --- | --- |
